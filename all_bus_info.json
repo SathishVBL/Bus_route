@@ -1098,43 +1098,6 @@
       ]
     },
     {
-      "destination": "vellore",
-      "name": "adukkamparai to vellore",
-      "source": "adukkamparai",
-      "source_time": [
-        "05:55:00",
-        "06:20:00",
-        "07:00:00",
-        "09:50:00",
-        "10:10:00",
-        "12:05:00",
-        "13:25:00",
-        "18:05:00",
-        "19:15:00",
-        "20:35:00",
-        "21:50:00",
-        "22:15:00"
-      ],
-      "stoping": [
-        "adukkamparai",
-        "Bagayam",
-        "Otteri",
-        "Virupakshipuuram",
-        "Kuppam",
-        "Sainathapuram",
-        "DMK College",
-        "Sankaranpalayam",
-        "Velapadi",
-        "Dhinakaran",
-        "Eye hospital",
-        "Raja theatre",
-        "Vellore Old bus stand",
-        "CMC Hospital",
-        "National Pachaiyappas",
-        "Vellore New bus Stand"
-      ]
-    },
-    {
       "destination": "ambur",
       "name": "vellore to ambur",
       "source": "vellore",

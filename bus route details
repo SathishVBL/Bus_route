@@ -15,12 +15,12 @@
   },
 
    "vellore to adukkamparai":{
-    "encodedRouteJson":"i}mAyl_bNM_JpEOjCd@vA`@bARv@n@h@B@vAnIbOv@|@|@ZfBd@nE~@~Bd@rBJfCGxJUvAdAS`KpA@pF{ArOsAtUmAvGh@dCT^{@H}@Ra@rXMnBg@fEcBfJuATq@GyA@wCjFCbBDVf@nTfAnELfJAhE@zDs@`FOvMg@jMMjLSrKEpEXrQbC|ItAvLvAtNv@lMZlTxAzm@hClV{AfK}BtNeGvJiDxCo@lLc@lIMrAH~C`A|Bt@",
+    "encodedRouteJson":"}zzmAoq~aNFjD|HeAnNqAvGQzGc@xDr@zCPb@iCpCMlSIz@IjASpAe@zAu@t@Q`BWbBU`BYf@QPYCcGPKrHFZLJV\JtAFtCHhDR`DPrCTrDB|EBzFIfCQfC[|DYbEIrDIdEKfEGzDKrEIfCEpB@lJA`EXjAHnARvCb@jRnCbOjBjL`@rQj@dJv@vHh@~GVxQr@~Nd@nDElGg@vBUlFg@h@MvCc@p@WvC}@dBs@nJaEfFgB~By@hCc@lBIfCKrCIbGQfAAdA?|@H\R~EzA",
     "endodedStopingJson":"wsrmAc__bNbwEkE`zEdHzlHekCzjAb^zjEudAjxLkUldIWpnC_I"
   },
 
 "adukkamparai to vellore":{
-    "encodedRouteJson":"i}mAyl_bNM_JpEOjCd@vA`@bARv@n@h@B@vAnIbOv@|@|@ZfBd@nE~@~Bd@rBJfCGxJUvAdAS`KpA@pF{ArOsAtUmAvGh@dCT^{@H}@Ra@rXMnBg@fEcBfJuATq@GyA@wCjFCbBDVf@nTfAnELfJAhE@zDs@`FOvMg@jMMjLSrKEpEXrQbC|ItAvLvAtNv@lMZlTxAzm@hClV{AfK}BtNeGvJiDxCo@lLc@lIMrAH~C`A|Bt@",
+    "encodedRouteJson":"}zzmAoq~aNFjD|HeAnNqAvGQzGc@xDr@zCPb@iCpCMlSIz@IjASpAe@zAu@t@Q`BWbBU`BYf@QPYCcGPKrHFZLJV\JtAFtCHhDR`DPrCTrDB|EBzFIfCQfC[|DYbEIrDIdEKfEGzDKrEIfCEpB@lJA`EXjAHnARvCb@jRnCbOjBjL`@rQj@dJv@vHh@~GVxQr@~Nd@nDElGg@vBUlFg@h@MvCc@p@WvC}@dBs@nJaEfFgB~By@hCc@lBIfCKrCIbGQfAAdA?|@H\R~EzA",
     "endodedStopingJson":"wsrmAc__bNbwEkE`zEdHzlHekCzjAb^zjEudAjxLkUldIWpnC_I"
   },
 
@@ -28,10 +28,12 @@
     "encodedRouteJson":"oh}mAem_bNEmIjJj@vBBjAvAVtBfAhCtIvNxH|BzYf@?xJZdAvLyClR_BnQw@nJb@`AwBtVQhCa@fJmC|Eu@XcHlH?D~@zCTnPz@fV_@nl@gCrV^zMjA|i@fHviAlEpe@V|YwNpc@mEh_@lNhZ|QjmAiHfhA}Dvz@aJlx@cEpaAzCfFkFhC{Fv}B}rBzVePxEsLtTcNlU_MbO{MbGgFzFkK`B{GjHsLlIsKzXg\dj@sm@v_@oh@bkAq~Ars@ycA|m@cgAtYywAx^s`CvMgt@jCcOhDgS~@_FyVwH",
     "endodedStopingJson":"aqrmAi}~aN|Af[fAb_@w[tK{JuCi`@lAie@wg@aQsG"
   },
+
  "vellore to anaiut":{
     "encodedRouteJson":"}h}mAem_bNCiInHBzAbA~Am@z@jBd@~BpLpRvO|DhPYtCz@sArKxR_EfQ_AdQo@fa@lChRa@bZ|BhZfEtb@|e@h`@i@lmAvdBjGrLzGtItA`WrC|V`BxKr@hCpAfC|AxBtAbCbCdLnA~L|D[n@pGEvMB~TaDzJoC|KYxCaAtCiKjNqLlM{D`IaAbBYpB]`GDlD^fDnCtFlDhEnCjCyLhYmCdO}A`P_DzO}AxQm@pRwB|Q}Hbk@mDlT}Mr^aFrRdMx_@dD|QgD~r@dG|LlGlFlF|G",
     "endodedStopingJson":"aqrmAi}~aN|Af[fAb_@w[tK{JuCi`@lAie@wg@aQsG"
   },
+
 "vellore to amrithi":{
     "encodedRouteJson":"kzzmAqq~aNRjD~D{@lLo@lPcAfNh@lThClTeAfVjAdTrChJNjSvThUhV|P~FtPsFvIjBzM~NxNtC~O|DdNlArFvFxHbClOd@xCnBrRxDlNfEdFxK~OvCzXrE|JxCfEs@rEl@jHmAxIq@hKNhFU~CdHz@xNOrJP`Dq@hNyBbP[xDvK~@xd@rPdc@jBzq@hBnh@oCzRiAfRlCtOxAvI}@~JxBbOhDvNpGzQ~AvRbA~NbInIzFdPlEnQbGpFdCdj@yAnGm@z\vKrL@pOsEbSmBpUuB`XjEtc@~b@zArFrArOrHfMnGxKrD~LvIfC~DjFxJfZ",
     "endodedStopingJson":"aqrmAi}~aN|Af[fAb_@w[tK{JuCi`@lAie@wg@aQsG"

@@ -5,7 +5,7 @@
   },
 
   "vellore to gudiyatham":{
-    "encodedRouteJson":"mqrmAs}~aN|JdArJf@dKXbJf@nI`@v]`B|Mt@bKPpN_B`P{CnMsFfLyDhZ}@tTdH`LbEfH~IlDlCdF|AhIxAdUiBbWmDz[eD`Wm@bJArMQ",
+    "encodedRouteJson":"{h}mAcm_bNGmIbKj@b@vAv@bAfB~JvAxJnBlJxPfb@GdTnJ|t@tAhKzI]FbNg@]fCvJnVh`@zOfa@nFhREb^{@dyAiAjSaDfn@yHfm@F~cAhFnhAjQfo@jGjwChLvbClUjgCvLbg@tG~lAeq@_Bu@xCyQrHqYnK|@nOmFpVqm@vq@ae@rg@{IvRgEzB}CpCwCrPiAtK^zJaEdXwGt[hDht@j@jLBbOm@|EiFfGmH~@sN`WHfV",
     "endodedStopingJson":"wsrmAc__bNbwEkE`zEdHzlHekCzjAb^zjEudAjxLkUldIWpnC_I"
   },
   "vellore to arcot":{
@@ -15,5 +15,20 @@
    "vellore to adukkamparai":{
     "encodedRouteJson":"i}mAyl_bNM_JpEOjCd@vA`@bARv@n@h@B@vAnIbOv@|@|@ZfBd@nE~@~Bd@rBJfCGxJUvAdAS`KpA@pF{ArOsAtUmAvGh@dCT^{@H}@Ra@rXMnBg@fEcBfJuATq@GyA@wCjFCbBDVf@nTfAnELfJAhE@zDs@`FOvMg@jMMjLSrKEpEXrQbC|ItAvLvAtNv@lMZlTxAzm@hClV{AfK}BtNeGvJiDxCo@lLc@lIMrAH~C`A|Bt@",
     "endodedStopingJson":"wsrmAc__bNbwEkE`zEdHzlHekCzjAb^zjEudAjxLkUldIWpnC_I"
+  },
+
+ "vellore to arni":{
+    "encodedRouteJson":"oh}mAem_bNEmIjJj@vBBjAvAVtBfAhCtIvNxH|BzYf@?xJZdAvLyClR_BnQw@nJb@AwBtVQhCa@fJmC|Eu@XcHlH?`D~@zCTnPz@fV_@nl@gCrV^zMjA|i@fHviAlEpe@V|YwNpc@mEh_@lNhZ|QjmAiHfhA}Dvz@aJlx@cEpaAzCfFkFhC{Fv}B}rBxPePjG}Lfa@{T^kYzKwP`FiNfIgKhToW~j@uo@h@up@xmAedBjd@}m@l@in@xW_h@~DyLvCyL~Lyt@vTwwAdX}`BnKej@jGsD|G?zR}LpR_@rPxDdHx@QdDxBb@",
+    "endodedStopingJson":"aqrmAi}~aN|Af[fAb_@w[tK{JuCi`@lAie@wg@aQsG"
+  },
+ "vellore to anaiut":{
+    "encodedRouteJson":"}h}mAem_bNCiInHBzAbA~Am@z@jBd@~BpLpRvO|DhPYtCz@sArKxR_EfQ_AdQo@fa@lChRa@bZ|BhZfEtb@|e@h`@i@lmAvdBjGrLzGtItA`WrC|V`BxKr@hCpAfC|AxBtAbCbCdLnA~L|D[n@pGEvMB~TaDzJoC|KYxCaAtCiKjNqLlM{D`IaAbBYpB]`GDlD^fDnCtFlDhEnCjCyLhYmCdO}A`P_DzO}AxQm@pRwB|Q}Hbk@mDlT}Mr^aFrRdMx_@dD|QgD~r@dG|LlGlFlF|G",
+    "endodedStopingJson":"aqrmAi}~aN|Af[fAb_@w[tK{JuCi`@lAie@wg@aQsG"
+  },
+"vellore to amrithi":{
+    "encodedRouteJson":"kzzmAqq~aNRjD~D{@lLo@lPcAfNh@lThClTeAfVjAdTrChJNjSvThUhV|P~FtPsFvIjBzM~NxNtC~O|DdNlArFvFxHbClOd@xCnBrRxDlNfEdFxK~OvCzXrE|JxCfEs@rEl@jHmAxIq@hKNhFU~CdHz@xNOrJP`Dq@hNyBbP[xDvK~@xd@rPdc@jBzq@hBnh@oCzRiAfRlCtOxAvI}@~JxBbOhDvNpGzQ~AvRbA~NbInIzFdPlEnQbGpFdCdj@yAnGm@z\vKrL@pOsEbSmBpUuB`XjEtc@~b@zArFrArOrHfMnGxKrD~LvIfC~DjFxJfZ",
+    "endodedStopingJson":"aqrmAi}~aN|Af[fAb_@w[tK{JuCi`@lAie@wg@aQsG"
   }
+
+
 }

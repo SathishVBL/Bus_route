@@ -1,9 +1,9 @@
 {
   "routes": [
     {
-      "destination": "gudiyatham",
-      "name": "vellore to gudiyatham",
-      "source": "vellore",
+      "destination": "Gudiyatham",
+      "name": "Vellore to Gudiyatham",
+      "source": "Vellore",
       "source_time": [
         "00:00:00",
         "00:15:00",
@@ -86,17 +86,19 @@
         "23:45:00"
       ],
       "stoping": [
-        "konavattam",
-        "poigai",
-        "sethuvalai",
-        "pallikonda",
-        "gudiyatham"
+        "Vellore",
+        "Vellore new bus stand",
+        "Konavattam",
+        "Poigai",
+        "Sethuvalai",
+        "Pallikonda",
+        "Gudiyatham"
       ]
     },
     {
-      "destination": "arcot",
-      "name": "vellore to arcot",
-      "source": "vellore",
+      "destination": "Arcot",
+      "name": "Vellore to Arcot",
+      "source": "Vellore",
       "source_time": [
         "04:20:00",
         "05:00:00",
@@ -175,17 +177,18 @@
         "23:00:00"
       ],
       "stoping": [
-        "kaakhidhapet",
-        "perumugai",
-        "rathnagiri",
-        "melvisharam",
-        "arcot"
+        "Vellore",
+        "Kaakhidhapet",
+        "Perumugai",
+        "Rathnagiri",
+        "Melvisharam",
+        "Arcot"
       ]
     },
     {
-      "destination": "chennai",
-      "name": "vellore to chennai",
-      "source": "vellore",
+      "destination": "Chennai",
+      "name": "Vellore to Chennai",
+      "source": "Vellore",
       "source_time": [
         "00:05:00",
         "00:45:00",
@@ -269,12 +272,20 @@
         "18:50:00",
         "19:35:00",
         "20:50:00"
+      ],
+      "stoping": [
+        "Vellore",
+        "Ranipet",
+        "Walajapet",
+        "Kanchipuram",
+        "Sriperumbudur",
+        "Chennai"
       ]
     },
     {
-      "destination": "bagayam",
-      "name": "katpadi to bagayam",
-      "source": "katpadi",
+      "destination": "Bagayam",
+      "name": "Katpadi to Bagayam",
+      "source": "Katpadi",
       "source_time": [
         "04:40:00",
         "04:54:00",
@@ -424,58 +435,58 @@
         "22:05:00"
       ],
       "stoping": [
-        "vallimalai koot road",
-        "uzhavar santhai",
-        "katpadi junction",
-        "chittor",
-        "odai pillaiyar",
-        "silk mill",
-        "kangeyanallur",
-        "viruthampet",
-        "vellore new bus stand",
-        "national pachaiyappas",
-        "cmc hospital",
-        "vellore old bus stand",
-        "raja theatre stop",
-        "voorhees College",
-        "roundana",
-        "lakshmi mill ",
-        "tollgate",
-        "allapuram",
-        "thorapadi",
-        "central jail stop",
-        "female jail stop",
-        "thanthai periyar polytecnic",
-        "cmc hospital",
-        "bagayam",
-        "otteri",
-        "virupakshipuuram",
-        "kuppam",
-        "sainathapuram",
-        "dmk College",
-        "sankaranpalayam",
-        "velapadi",
-        "dhinakaran",
-        "eye hospital",
-        "raja theatre",
-        "vellore Old bus stand",
-        "cmc Hospital",
-        "national Pachaiyappas",
-        "vellore New bus Stand",
-        "viruthampet",
-        "kangeyanallur",
-        "silk mill",
-        "odai pillaiyar koil",
-        "chittoor bus stand",
-        "katpadi junction",
-        "uzhavar sandhai",
-        "vallimalai koot road"
+        "Vallimalai Koot Road",
+        "Uzhavar Santhai",
+        "Katpadi Junction",
+        "Chittor Bus Stand",
+        "Odai Pillaiyar Koil",
+        "Silk Mill",
+        "Kangeyanallur",
+        "Viruthampet",
+        "Vellore New Bus Stand",
+        "National Pachaiyappas",
+        "CMC Hospital",
+        "Vellore Old Bus Stand",
+        "Raja Theatre Stop",
+        "Voorhees College",
+        "Roundana",
+        "Lakshmi Mill ",
+        "Tollgate",
+        "Allapuram",
+        "Thorapadi",
+        "Central Jail Stop",
+        "Female Jail Stop",
+        "Thanthai Periyar Polytecnic",
+        "CMC Hospital",
+        "Bagayam",
+        "Otteri",
+        "Virupakshipuuram",
+        "Kuppam",
+        "Sainathapuram",
+        "DMK College",
+        "Sankaranpalayam",
+        "Velapadi",
+        "Dhinakaran",
+        "Eye Hospital",
+        "Raja Theatre Stop",
+        "Vellore Old Bus Stand",
+        "CMC Hospital",
+        "National Pachaiyappas",
+        "Vellore New Bus Stand",
+        "Viruthampet",
+        "Kngeyanallur",
+        "Silk Mill",
+        "Odai Pllaiyar Koil",
+        "Chittoor Bus Stand",
+        "Katpadi Junction",
+        "Uzhavar Sandhai",
+        "Vallimalai Koot Road"
       ]
     },
     {
-      "destination": "trichy",
-      "name": "vellore to trichy",
-      "source": "vellore",
+      "destination": "Trichy",
+      "name": "Vellore to Trichy",
+      "source": "Vellore",
       "source_time": [
         "02:30:00",
         "03:50:00",
@@ -504,19 +515,19 @@
         "22:30:00"
       ],
       "stoping": [
-        "vellore",
-        "polur",
-        "tiruvannamalai",
-        "tirukoilur",
-        "ulundurpet",
-        "perambalur",
-        "trichy"
+        "Vellore",
+        "Polur",
+        "Tiruvannamalai",
+        "Tirukoilur",
+        "Ulundurpet",
+        "Perambalur",
+        "Trichy"
       ]
     },
     {
-      "destination": "villupuram",
-      "name": "vellore to villupuram",
-      "source": "vellore",
+      "destination": "Villupuram",
+      "name": "Vellore to Villupuram",
+      "source": "Vellore",
       "source_time": [
         "01:00:00",
         "03:15:00",
@@ -551,49 +562,49 @@
         "23:30:00"
       ],
       "stoping": [
-        "vellore",
-        "arni",
-        "chetpet",
-        "gingee",
-        "villupuram"
+        "Vellore",
+        "Arni",
+        "Chetpet",
+        "Gingee",
+        "Villupuram"
       ]
     },
     {
-      "destination": "kumbakonam",
-      "name": "vellore to kumbakonam",
-      "source": "vellore",
+      "destination": "Kumbakonam",
+      "name": "Vellore to Kumbakonam",
+      "source": "Vellore",
       "source_time": [
         "11:10:00",
         "16:00:00",
         "22:40:11"
       ],
       "stoping": [
-        "vellore",
-        "tiruvannamalai",
-        "panruti",
-        "neyveli",
-        "kumbakonam"
+        "Vellore",
+        "Tiruvannamalai",
+        "Panruti",
+        "Neyveli",
+        "Kumbakonam"
       ]
     },
     {
-      "destination": "kumbakonam",
-      "name": "vellore to kumbakonam",
-      "source": "vellore",
+      "destination": "Kumbakonam",
+      "name": "Vellore to Kumbakonam",
+      "source": "Vellore",
       "source_time": [
         "17:48:00"
       ],
       "stoping": [
-        "vellore",
-        "arni",
-        "villupuram",
-        "neyveli",
-        "kumbakonam"
+        "Vellore",
+        "Arni",
+        "Villupuram",
+        "Neyveli",
+        "Kumbakonam"
       ]
     },
     {
-      "destination": "chidambaram",
-      "name": "vellore to chidambaram",
-      "source": "vellore",
+      "destination": "Chidambaram",
+      "name": "Vellore to Chidambaram",
+      "source": "Vellore",
       "source_time": [
         "05:30:00",
         "06:40:00",
@@ -606,163 +617,163 @@
         "23:00:00"
       ],
       "stoping": [
-        "vellore",
-        "tiruvannamalai",
-        "panruti",
-        "neyveli",
-        "chidambaram"
+        "Vellore",
+        "Tiruvannamalai",
+        "Panruti",
+        "Neyveli",
+        "Chidambaram"
       ]
     },
     {
-      "destination": "thanjavur",
-      "name": "vellore to thanjavur",
-      "source": "vellore",
+      "destination": "Thanjavur",
+      "name": "Vellore to Thanjavur",
+      "source": "Vellore",
       "source_time": [
         "09:30:00",
         "18:00:00"
       ],
       "stoping": [
-        "vellore",
-        "tiruvannamalai",
-        "neyveli",
-        "kumbakonam",
-        "thanjavur"
+        "Vellore",
+        "Tiruvannamalai",
+        "Neyveli",
+        "Kumbakonam",
+        "Thanjavur"
       ]
     },
     {
-      "destination": "thanjavur",
-      "name": "vellore to thanjavur",
-      "source": "vellore",
+      "destination": "Thanjavur",
+      "name": "Vellore to Thanjavur",
+      "source": "Vellore",
       "source_time": [
         "08:10:00"
       ],
       "stoping": [
-        "vellore",
-        "arni",
-        "villupuram",
-        "neyveli",
-        "kumbakonam",
-        "thanjavur"
+        "Vellore",
+        "Arni",
+        "Villupuram",
+        "Neyveli",
+        "Kumbakonam",
+        "Thanjavur"
       ]
     },
     {
-      "destination": "nagapattinam",
-      "name": "vellore to nagapattinam",
-      "source": "vellore",
+      "destination": "Nagapattinam",
+      "name": "Vellore to Nagapattinam",
+      "source": "Vellore",
       "source_time": [
         "07:20:00",
         "22:10:00"
       ],
       "stoping": [
-        "vellore",
-        "arni",
-        "villupuram",
-        "chidambaram",
-        "nagore",
-        "nagapattinam"
+        "Vellore",
+        "Arni",
+        "Villupuram",
+        "Chidambaram",
+        "Nagore",
+        "Nagapattinam"
       ]
     },
     {
-      "destination": "mannargudi",
-      "name": "vellore to mannargudi",
-      "source": "vellore",
+      "destination": "Mannargudi",
+      "name": "Vellore to Mannargudi",
+      "source": "Vellore",
       "source_time": [
         "20:08:00"
       ],
       "stoping": [
-        "vellore",
-        "arni",
-        "villupuram",
-        "neyveli",
-        "kumbakonam",
-        "mannargudi"
+        "Vellore",
+        "Arni",
+        "Villupuram",
+        "Neyveli",
+        "Kumbakonam",
+        "Mannargudi"
       ]
     },
     {
-      "destination": "mayiladuthurai",
-      "name": "vellore to mayiladuthurai",
-      "source": "vellore",
+      "destination": "Mayiladuthurai",
+      "name": "Vellore to Mayiladuthurai",
+      "source": "Vellore",
       "source_time": [
         "09:30:00",
         "18:00:00"
       ],
       "stoping": [
-        "vellore",
-        "arni",
-        "villupuram",
-        "neyveli",
-        "chidambaram",
-        "mayiladuthurai"
+        "Vellore",
+        "Arni",
+        "Villupuram",
+        "Neyveli",
+        "Chidambaram",
+        "Mayiladuthurai"
       ]
     },
     {
-      "destination": "mayiladuthurai",
-      "name": "vellore to mayiladuthurai",
-      "source": "vellore",
+      "destination": "Mayiladuthurai",
+      "name": "Vellore to Mayiladuthurai",
+      "source": "Vellore",
       "source_time": [
         "12:38:00"
       ],
       "stoping": [
-        "vellore",
-        "arni",
-        "tindivanam",
-        "puducherry",
-        "mayiladuthurai"
+        "Vellore",
+        "Arni",
+        "Tindivanam",
+        "Puducherry",
+        "Mayiladuthurai"
       ]
     },
     {
-      "destination": "cuddalore",
-      "name": "vellore to cuddalore",
-      "source": "vellore",
+      "destination": "Cuddalore",
+      "name": "Vellore to Cuddalore",
+      "source": "Vellore",
       "source_time": [
         "10:05:00",
         "11:32:00",
         "12:55:00"
       ],
       "stoping": [
-        "vellore",
-        "tiruvannamalai",
-        "tirukoilure",
-        "panruti",
-        "cuddalore"
+        "Vellore",
+        "Tiruvannamalai",
+        "Tirukoilure",
+        "Panruti",
+        "Cuddalore"
       ]
     },
     {
-      "destination": "nannilam",
-      "name": "vellore to nannilam",
-      "source": "vellore",
+      "destination": "Nannilam",
+      "name": "Vellore to Nannilam",
+      "source": "Vellore",
       "source_time": [
         "06:00:00"
       ],
       "stoping": [
-        "vellore",
-        "arni",
-        "villupuram",
-        "neyveli",
-        "kumbakonam",
-        "nannilam"
+        "Vellore",
+        "Arni",
+        "Villupuram",
+        "Neyveli",
+        "Kumbakonam",
+        "Nannilam"
       ]
     },
     {
-      "destination": "thittakudi",
-      "name": "vellore to thittakudi",
-      "source": "vellore",
+      "destination": "Thittakudi",
+      "name": "Vellore to Thittakudi",
+      "source": "Vellore",
       "source_time": [
         "00:10:00",
         "02:20:00"
       ],
       "stoping": [
-        "vellore",
-        "arni",
-        "villupuram",
-        "vridhachalam",
-        "thittakudi"
+        "Vellore",
+        "Arni",
+        "Villupuram",
+        "Vridhachalam",
+        "Thittakudi"
       ]
     },
     {
-      "destination": "kallakurichi",
-      "name": "vellore to kallakurichi",
-      "source": "vellore",
+      "destination": "Kallakurichi",
+      "name": "Vellore to Kallakurichi",
+      "source": "Vellore",
       "source_time": [
         "00:30:00",
         "02:30:00",
@@ -776,16 +787,16 @@
         "23:25:00"
       ],
       "stoping": [
-        "vellore",
-        "tiruvannamala",
-        "sankarapuram",
-        "kallakurichi"
+        "Vellore",
+        "Tiruvannamala",
+        "Sankarapuram",
+        "Kallakurichi"
       ]
     },
     {
-      "destination": "amrithi",
-      "name": "vellore to amrithi",
-      "source": "vellore",
+      "destination": "Amrithi",
+      "name": "Vellore to Amrithi",
+      "source": "Vellore",
       "source_time": [
         "05:05:00",
         "06:20:00",
@@ -807,34 +818,34 @@
         "21:15:00"
       ],
       "stoping": [
-        "vellore",
-        "thorappadi",
-        "female jail stop",
-        "chitheri",
-        "Palathuvannan bus stop",
-        "amrithi"
+        "Vellore",
+        "Thorappadi",
+        "Female Jail Stop",
+        "Chitheri",
+        "Palathuvannan Bus Stop",
+        "Amrithi"
       ]
     },
     {
-      "destination": "polur",
-      "name": "vellore to polur",
-      "source": "vellore",
+      "destination": "Polur",
+      "name": "Vellore to Polur",
+      "source": "Vellore",
       "source_time": [
         "08:30:00",
         "17:55:00"
       ],
       "stoping": [
-        "vellore",
-        "bagayam",
-        "kannamangalam",
-        "santhavasal",
-        "polur"
+        "Vellore",
+        "Bagayam",
+        "Kannamangalam",
+        "Santhavasal",
+        "Polur"
       ]
     },
     {
-      "destination": "tiruvannamalai",
-      "name": "vellore to tiruvannamalai",
-      "source": "vellore",
+      "destination": "Tiruvannamalai",
+      "name": "Vellore to Tiruvannamalai",
+      "source": "Vellore",
       "source_time": [
         "06:30:00",
         "06:55:00",
@@ -908,18 +919,18 @@
         "23:30:00"
       ],
       "stoping": [
-        "vellore",
-        "kannamangalam",
-        "santhavaasal",
-        "polur",
-        "kalasapakkam",
-        "tiruvannamalai"
+        "Vellore",
+        "Kannamangalam",
+        "Santhavaasal",
+        "Polur",
+        "Kalasapakkam",
+        "Tiruvannamalai"
       ]
     },
     {
-      "destination": "thiruthani",
-      "name": "vellore to thiruthani",
-      "source": "vellore",
+      "destination": "Thiruthani",
+      "name": "Vellore to Thiruthani",
+      "source": "Vellore",
       "source_time": [
         "02:50:00",
         "03:50:00",
@@ -986,16 +997,16 @@
         "22:05:00"
       ],
       "stoping": [
-        "vellore",
-        "ranipet",
-        "sholinghur",
-        "thiruthani"
+        "Vellore",
+        "Ranipet",
+        "Sholinghur",
+        "Thiruthani"
       ]
     },
     {
-      "destination": "thirupathur",
-      "name": "vellore to thirupathur",
-      "source": "vellore",
+      "destination": "Thirupathur",
+      "name": "Vellore to Thirupathur",
+      "source": "Vellore",
       "source_time": [
         "03:50:00",
         "04:30:00",
@@ -1054,18 +1065,18 @@
         "21:43:00"
       ],
       "stoping": [
-        "vellore",
-        "gudiyatham",
-        "ambur",
-        "vaniyambadi",
-        "yelagiri",
-        "thirupathur"
+        "Vellore",
+        "Pallikonda",
+        "Ambur",
+        "Vaniyambadi",
+        "Yelagiri",
+        "Thirupathur"
       ]
     },
     {
-      "destination": "adukkamparai",
-      "name": "vellore to adukkamparai",
-      "source": "vellore",
+      "destination": "Adukkamparai",
+      "name": "Vellore to Adukkamparai",
+      "source": "Vellore",
       "source_time": [
         "05:20:00",
         "05:45:00",
@@ -1079,29 +1090,67 @@
         "20:00:00"
       ],
       "stoping": [
-        "vellore new bus stand",
-        "national pachaiyappas",
-        "cmc vellore",
-        "vellore old bus stand",
-        "Raja theatre",
-        "Eye hospital",
+        "Adukkamparai",
+        "Bagayam",
+        "Otteri",
+        "Virupakshipuuram",
+        "Kuppam",
+        "Sainathapuram",
+        "DMK College",
+        "Sankaranpalayam",
+        "Velapadi",
+        "Dhinakaran",
+        "Eye Hospital",
+        "Raja Theatre Stop",
+        "Vellore Old Bus Stand",
+        "CMC Hospital",
+        "National Pachaiyappas",
+        "Vellore New Bus Stand",
+        "Vellore"
+      ]
+    },
+    {
+      "destination": "Vellore",
+      "name": "Adukkamparai to Vellore",
+      "source": "Adukkamparai",
+      "source_time": [
+        "05:55:00",
+        "06:20:00",
+        "07:00:00",
+        "09:50:00",
+        "10:10:00",
+        "12:05:00",
+        "13:25:00",
+        "18:05:00",
+        "19:15:00",
+        "20:35:00",
+        "21:50:00",
+        "22:15:00"
+      ],
+      "stoping": [
+        "Vellore",
+        "Vellore New Bus Stand",
+        "National Pachaiyappas",
+        "CMC Hospital",
+        "Vellore Old Bus Stand",
+        "Raja Theatre Stop",
+        "Eye Hospital",
         "Dhinakaran",
         "Velapadi",
         "Sankaranpalayam",
         "DMK College",
         "Sainathapuram",
-        "Kuppam",
+        "Kppam",
         "Virupakshipuuram",
         "Otteri",
         "Bagayam",
-        "adukkamparai"
+        "Adukkamparai"
       ]
     },
-   
     {
-      "destination": "ambur",
-      "name": "vellore to ambur",
-      "source": "vellore",
+      "destination": "Ambur",
+      "name": "Vellore to Ambur",
+      "source": "Vellore",
       "source_time": [
         "00:50:00",
         "00:50:00",
@@ -1126,16 +1175,16 @@
         "23:15:00"
       ],
       "stoping": [
-        "vellore",
-        "pallikonda",
-        "mathanur",
-        "ambur"
+        "Vellore",
+        "Pallikonda",
+        "Mathanur",
+        "Ambur"
       ]
     },
     {
-      "destination": "anaicut",
-      "name": "vellore to anaicut",
-      "source": "vellore",
+      "destination": "Anaicut",
+      "name": "Vellore to Anaicut",
+      "source": "Vellore",
       "source_time": [
         "04:40:00",
         "06:10:00",
@@ -1154,22 +1203,19 @@
         "20:30:00"
       ],
       "stoping": [
-        "vellore new bus stand",
-        "modur",
-        "kilmanavur",
-        "poigai",
-        "narasingapuram",
-        "puthur",
-        "tarveli",
-        "moolaigate",
-        "kannigakuram",
-        "anaicut"
+        "Vellore",
+        "Vellore New Bus Stand",
+        "Vellore Old Bus Stand",
+        "MGR Statue Stop",
+        "Sripuram Golden Temple",
+        "Oosur",
+        "Anaicut"
       ]
     },
     {
-      "destination": "cheyyar",
-      "name": "vellore to cheyyar",
-      "source": "vellore",
+      "destination": "Cheyyar",
+      "name": "Vellore to Cheyyar",
+      "source": "Vellore",
       "source_time": [
         "04:00:00",
         "08:25:00",
@@ -1183,21 +1229,21 @@
         "20:40:00"
       ],
       "stoping": [
-        "vellore",
-        "bagayam",
-        "adukkamparai",
-        "kannamangalam",
-        "bootherimedu",
-        "sevoor",
-        "arni",
-        "nethapakam",
-        "cheyyar"
+        "Vellore",
+        "Bagayam",
+        "Adukkamparai",
+        "Kannamangalam",
+        "Bootherimedu",
+        "Sevoor",
+        "Arni",
+        "Nethapakam",
+        "Cheyyar"
       ]
     },
     {
-      "destination": "arakkonam",
-      "name": "vellore to arakkonam",
-      "source": "vellore",
+      "destination": "Arakkonam",
+      "name": "Vellore to Arakkonam",
+      "source": "Vellore",
       "source_time": [
         "05:30:00",
         "06:10:00",
@@ -1221,18 +1267,18 @@
         "20:40:00"
       ],
       "stoping": [
-        "vellore",
-        "arcot",
-        "walajapet",
-        "bagaveli",
-        "panapakkam",
-        "arakkonam"
+        "Vellore",
+        "Arcot",
+        "Walajapet",
+        "Bagaveli",
+        "Panapakkam",
+        "Arakkonam"
       ]
     },
     {
-      "destination": "walajapet",
-      "name": "vellore to walajapet",
-      "source": "vellore",
+      "destination": "Walajapet",
+      "name": "Vellore to Walajapet",
+      "source": "Vellore",
       "source_time": [
         "10:27:00",
         "10:50:00",
@@ -1245,17 +1291,17 @@
         "18:55:00"
       ],
       "stoping": [
-        "vellore new bus stand",
-        "melvisharam",
-        "veppur",
-        "arcot",
-        "walajapet"
+        "vellore",
+        "Melvisharam",
+        "Veppur",
+        "Arcot",
+        "Walajapet"
       ]
     },
     {
-      "destination": "sripuram",
-      "name": "vellore to sripuram",
-      "source": "vellore",
+      "destination": "Sripuram",
+      "name": "Vellore to Sripuram",
+      "source": "Vellore",
       "source_time": [
         "08:15:00",
         "13:15:00",
@@ -1266,23 +1312,23 @@
         "19:50:00"
       ],
       "stoping": [
-        "vellore old bus stand",
-        "Raja theatre",
-        "voorhees college",
-        "roundana",
-        "lakshmi mill",
-        "tollgate",
-        "allapuram",
-        "thorappadi",
-        "MGR statue stop",
+        "Vellore Old Bus Stand",
+        "Raja Theatre Stop",
+        "Voorhees College",
+        "Roundana",
+        "Lakshmi Mill",
+        "Tollgate",
+        "Allapuram",
+        "Thorappadi",
+        "MGR Statue Stop",
         "Sripuram Golden Temple",
         "Sripuram"
       ]
     },
     {
-      "destination": "odugathur",
-      "name": "vellore to odugathur",
-      "source": "vellore",
+      "destination": "Odugathur",
+      "name": "Vellore to Odugathur",
+      "source": "Vellore",
       "source_time": [
         "05:00:00",
         "06:10:00",
@@ -1299,21 +1345,21 @@
         "21:05:00"
       ],
       "stoping": [
-        "vellore",
-        "vellore new bus stand",
-        "vellore old bus stand",
+        "Vellore",
+        "Vellore new bus stand",
+        "Vellore old bus stand",
         "MGR statue stop",
-        "Sripuram Golden Temple",
-        "oosur",
-        "anaicut",
-        "gururajapalayam",
+        "Sripuram golden temple",
+        "Oosur",
+        "Anaicut",
+        "Gururajapalayam",
         "Odugathur"
       ]
     },
     {
-      "destination": "salem",
-      "name": "vellore to salem",
-      "source": "vellore",
+      "destination": "Salem",
+      "name": "Vellore to Salem",
+      "source": "Vellore",
       "source_time": [
         "00:15:00",
         "00:45:00",
@@ -1357,22 +1403,22 @@
         "23:30:00"
       ],
       "stoping": [
-        "vellore",
-        "ambur",
-        "vaniyambadi",
-        "thirupathur",
-        "natrampalli",
-        "bargur",
-        "krishnagiri",
-        "kaveripattinam",
-        "dharmapuri",
-        "salem"
+        "Vellore",
+        "Ambur",
+        "Vaniyambadi",
+        "Thirupathur",
+        "Natrampalli",
+        "Bargur",
+        "Krishnagiri",
+        "Kaveripattinam",
+        "Dharmapuri",
+        "Salem"
       ]
     },
     {
-      "destination": "dharmapuri",
-      "name": "vellore to dharmapuri",
-      "source": "vellore",
+      "destination": "Dharmapuri",
+      "name": "Vellore to Dharmapuri",
+      "source": "Vellore",
       "source_time": [
         "02:15:00",
         "02:45:00",
@@ -1382,21 +1428,21 @@
         "19:35:00"
       ],
       "stoping": [
-        "vellore",
-        "ambur",
-        "vaniyambadi",
-        "thirupathur",
-        "natrampalli",
-        "bargur",
-        "krishnagiri",
-        "kaveripattinam",
-        "dharmapuri"
+        "Vellore",
+        "Ambur",
+        "Vaniyambadi",
+        "Thirupathur",
+        "Natrampalli",
+        "Bargur",
+        "Krishnagiri",
+        "Kaveripattinam",
+        "Dharmapuri"
       ]
     },
     {
-      "destination": "arni",
-      "name": "vellore to arni",
-      "source": "vellore",
+      "destination": "Arni",
+      "name": "Vellore to Arni",
+      "source": "Vellore",
       "source_time": [
         "05:55:00",
         "06:10:00",
@@ -1409,20 +1455,20 @@
         "23:50:00"
       ],
       "stoping": [
-        "vellore",
-        "bagayam",
-        "adukkamparai",
-        "kaniyambadi",
-        "kannamangalam",
-        "kunnathur",
-        "sevoor",
-        "arni"
+        "Vellore",
+        "Bagayam",
+        "Adukkamparai",
+        "Kaniyambadi",
+        "Kannamangalam",
+        "Kunnathur",
+        "Sevoor",
+        "Arni"
       ]
     },
     {
-      "destination": "katpadi",
-      "name": "bagayam to katpadi",
-      "source": "bagayam",
+      "destination": "Katpadi",
+      "name": "Bagayam to Katpadi",
+      "source": "Bagayam",
       "source_time": [
         "04:49:00",
         "04:50:00",
@@ -1571,52 +1617,52 @@
         "21:24:00"
       ],
       "stoping": [
-        "bagayam",
-        "cmc college",
-        "thanthai periyar polytecnic",
-        "female jail stop",
-        "central jail stop",
-        "thorapadi",
-        "allapuram",
-        "tollgate",
-        "lakshmi mill",
-        "roundana",
-        "managaratchi stop",
-        "raja theatre stop",
-        "vellore old bus stand",
-        "cmc hospital",
-        "national pachaiyappas",
-        "vellore new bus stand",
-        "viruthampet",
-        "kangeyanallur road",
-        "silk mill",
-        "odai pillaiyar stop",
-        "chithoor bus stand",
-        "katpadi junction",
-        "uzhavar sandhai",
-        "vallimalai koot road",
-        "uzhavar sandhai",
-        "katpadi junction",
-        "chithoor bus stand",
-        "odai pillaiyar stop",
-        "silk mill",
-        "kangeyanallur road",
-        "viruthampet",
-        "vellore new bus stand",
-        "national pachaiyappas",
-        "cmc hospital",
-        "vellore old bus stand",
-        "raja theatre stop",
-        "eye hospital",
-        "dhinakaran",
-        "velapadi",
-        "sankaranpalayam",
-        "dmk college",
-        "sainathapuram",
-        "kuppam",
-        "virupakshipuuram",
-        "otteri",
-        "bagayam"
+        "Bagayam",
+        "CMC College",
+        "Thanthai Periyar Polytecnic",
+        "Female Jail stop",
+        "Central Jail stop",
+        "Thorapadi",
+        "Allapuram",
+        "Tollgate",
+        "Lakshmi Mill",
+        "Roundana",
+        "Managaratchi Stop",
+        "Raja Theatre Stop",
+        "Vellore Old Bus Stand",
+        "CMC Hospital",
+        "National Pachaiyappas",
+        "Vellore New Bus Stand",
+        "Viruthampet",
+        "Kangeyanallur",
+        "Silk Mill",
+        "Odai Pillaiyar Stop",
+        "Chithoor Bus Stand",
+        "Katpadi Junction",
+        "Uzhavar Sandhai",
+        "Vallimalai Koot Road",
+        "Uzhavar Sandhai",
+        "Katpadi Junction",
+        "Chithoor Bus Stand",
+        "Odai Pillaiyar Stop",
+        "Silk Mill",
+        "Kangeyanallur",
+        "Viruthampet",
+        "Vellore New Bus Stand",
+        "National Pachaiyappas",
+        "CMC Hospital",
+        "Vellore Old Bus Stand",
+        "Raja Theatre Stop",
+        "Eye Hospital",
+        "Dhinakaran",
+        "Velapadi",
+        "Sankaranpalayam",
+        "DMK College",
+        "Sainathapuram",
+        "Kuppam",
+        "Virupakshipuuram",
+        "Otteri",
+        "Bagayam"
       ]
     }
   ]
